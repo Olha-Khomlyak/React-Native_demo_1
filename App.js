@@ -9,15 +9,12 @@ import {
   StatusBar,
 } from 'react-native';
 import Home from './screens/Home';
+import Navigator from './navigation/HomeStack'
 
 class App extends Component {
   render() {
     return (
-      <SafeAreaView style={{flex:1}}>
-      
-          <Home/>
-
-      </SafeAreaView>
+      <Navigator />
     );
   }
 }
