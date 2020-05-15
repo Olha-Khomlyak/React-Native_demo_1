@@ -8,4 +8,4 @@ Design of Zhao Wei https://dribbble.com/shots/6176350-Greenery-NYC
   <img src="/screenshots/green2.png" alt="test image size" height="30%" width="30%">
   <img src="/screenshots/green3.png" alt="test image size" height="30%" width="30%">
 </p>
-<p style='color:red'>This is some red text.</p>
+
